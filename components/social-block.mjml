@@ -28,7 +28,7 @@
       <mj-text mj-class="social-block__output-info">10%</mj-text>
     </mj-column>
     <mj-column width="15%">
-      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+      <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
 
@@ -41,7 +41,7 @@
       <mj-text mj-class="social-block__output-info">01:35</mj-text>
     </mj-column>
     <mj-column width="15%">
-      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+      <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
 
@@ -55,7 +55,7 @@
       <mj-text mj-class="social-block__output-info">2%</mj-text>
     </mj-column>
     <mj-column width="15%">
-      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+      <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
 
@@ -69,7 +69,7 @@
       <mj-text mj-class="social-block__output-info">2%</mj-text>
     </mj-column>
     <mj-column width="15%">
-      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+      <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
 
@@ -82,7 +82,7 @@
       <mj-text mj-class="social-block__output-info">5 сек.</mj-text>
     </mj-column>
     <mj-column width="15%">
-      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+      <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
 
