@@ -6,7 +6,11 @@
   <mj-body mj-class="body">
     <mj-include path="./components/logo-block.mjml" />
 
-    
+    <mj-section>
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 </mjml>

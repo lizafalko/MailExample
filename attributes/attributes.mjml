@@ -1,11 +1,12 @@
 <mj-attributes>
   <mj-class name="body" background-color="#F2F2F2" font-family="Roboto" />
 
-  <mj-class name="logo-block" background-color="#2f303b" padding-bottom="0px" />
+  <mj-class name="logo-block" background-color="#2f303b" padding="0px 0px 0px 0px" />
   <mj-class name="logo-block__img" padding-top="0px" padding-bottom="0px" align="left" width="127px" height="39" />
   <mj-class name="logo-block__text" line-height="1.5" align="center" font-size="16px" color="#ffffff" font-family="Roboto" />
-  <mj-class name="logo-block__heading" line-height="1.5" align="center" font-size="28px" color="#ffffff" />
-  <mj-class name="logo-block__section" padding-top="0px" />
+  <mj-class name="logo-block__heading" line-height="1.5" align="center" font-size="28px" color="#ffffff" font-weight="normal" />
+  <mj-class name="logo-block__section" padding-bottom="0px" />
+  <mj-class name="logo-block__section--top" padding-top="0px" />
   <mj-class name="logo-block__slider" width="503" padding-bottom="40px" height="86" />
 
   <mj-class name="" />
