@@ -1,0 +1,89 @@
+<mj-wrapper mj-class="social-block">
+  <mj-section>
+    <mj-column mj-class="social-block__info">
+      <mj-image mj-class="social-block__img" src="./assets/img/cup.png" alt=""></mj-image>
+      <mj-text mj-class="social-block__title">Отличная работа!</mj-text>
+      <mj-text mj-class="social-block__text">Расскажите о своих достижениях:</mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section mj-class="social-block__buttons">
+    <mj-column>
+      <mj-button mj-class="social-block__button social-block__button--facebook">facebook</mj-button>
+    </mj-column>
+    <mj-column>
+      <mj-button mj-class="social-block__button social-block__button--twitter">twitter</mj-button>
+    </mj-column>
+    <mj-column>
+      <mj-button mj-class="social-block__button social-block__button--vk">vkontakte</mj-button>
+    </mj-column>
+  </mj-section>
+
+  <mj-section mj-class="social-block__output">
+    <mj-column width="65%">
+      <mj-text mj-class="social-block__output-heading">Диалоги по активным приглашениям</mj-text>
+      <mj-text mj-class="social-block__output-count">12 из 100</mj-text>
+    </mj-column>
+    <mj-column width="20%">
+      <mj-text mj-class="social-block__output-heading social-block__output--right">12 %</mj-text>
+      <mj-text mj-class="social-block__output-info">10%</mj-text>
+    </mj-column>
+    <mj-column width="15%">
+      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section mj-class="social-block__output">
+    <mj-column width="60%">
+      <mj-text mj-class="social-block__output-heading">Время в онлайне за неделю</mj-text>
+    </mj-column>
+    <mj-column width="25%">
+      <mj-text mj-class="social-block__output-heading social-block__output--right">26 часов</mj-text>
+      <mj-text mj-class="social-block__output-info">01:35</mj-text>
+    </mj-column>
+    <mj-column width="15%">
+      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section mj-class="social-block__output">
+    <mj-column width="65%">
+      <mj-text mj-class="social-block__output-heading">Пропущенных диалогов</mj-text>
+      <mj-text mj-class="social-block__output-count">5 из 100</mj-text>
+    </mj-column>
+    <mj-column width="20%">
+      <mj-text mj-class="social-block__output-heading social-block__output--right">5 %</mj-text>
+      <mj-text mj-class="social-block__output-info">2%</mj-text>
+    </mj-column>
+    <mj-column width="15%">
+      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section mj-class="social-block__output">
+    <mj-column width="65%">
+      <mj-text mj-class="social-block__output-heading">Положительных оценок</mj-text>
+      <mj-text mj-class="social-block__output-count">+ 45 / 5 -</mj-text>
+    </mj-column>
+    <mj-column width="20%">
+      <mj-text mj-class="social-block__output-heading social-block__output--right">85 %</mj-text>
+      <mj-text mj-class="social-block__output-info">2%</mj-text>
+    </mj-column>
+    <mj-column width="15%">
+      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section mj-class="social-block__output">
+    <mj-column width="65%">
+      <mj-text mj-class="social-block__output-heading">Скорость ответа на первое сообщение</mj-text>
+    </mj-column>
+    <mj-column width="20%">
+      <mj-text mj-class="social-block__output-heading social-block__output--right">28 сек.</mj-text>
+      <mj-text mj-class="social-block__output-info">5 сек.</mj-text>
+    </mj-column>
+    <mj-column width="15%">
+      <mj-text mj-class="social-block__output-welldone">10%</mj-text>
+    </mj-column>
+  </mj-section>
+
+</mj-wrapper>

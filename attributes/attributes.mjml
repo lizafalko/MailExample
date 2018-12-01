@@ -3,12 +3,27 @@
 
   <mj-class name="logo-block" background-color="#2f303b" padding="0px 0px 0px 0px" />
   <mj-class name="logo-block__img" padding-top="0px" padding-bottom="0px" align="left" width="127px" height="39" />
-  <mj-class name="logo-block__text" line-height="1.5" align="center" font-size="16px" color="#ffffff" font-family="Roboto" />
+  <mj-class name="logo-block__text" line-height="1.5" align="center" font-size="18px" color="#ffffff" font-family="Roboto" />
   <mj-class name="logo-block__heading" line-height="1.5" align="center" font-size="28px" color="#ffffff" font-weight="normal" />
   <mj-class name="logo-block__section" padding-bottom="0px" />
   <mj-class name="logo-block__section--top" padding-top="0px" />
   <mj-class name="logo-block__slider" width="503" padding-bottom="40px" height="86" />
 
-  <mj-class name="" />
+  <mj-class name="social-block" background-color="#ffffff" />
+  <mj-class name="social-block__info" padding-bottom="0px" />
+  <mj-class name="social-block__img" width="143" height="156" />
+  <mj-class name="social-block__title" align="center" color="#808080" font-size="16px"  />
+  <mj-class name="social-block__text" padding-bottom="0px" align="center" padding-top="30px" color="#c2c2c2" font-size="16px" />
+  <mj-class name="social-block__buttons" padding-top="0px"/>
+  <mj-class name="social-block__button" color="#ffffff" width="140px" height="30px" text-transform="uppercase" />
+  <mj-class name="social-block__button--facebook" background-color="#4e6ab1" />
+  <mj-class name="social-block__button--twitter" background-color="#1aace9" color="#ffffff" />
+  <mj-class name="social-block__button--vk" background-color="#436c98" color="#ffffff" />
+
+  <mj-class name="social-block__output" />
+  <mj-class name="social-block__output-heading" font-size="18px"/>
+  <mj-class name="social-block__output--right" align="right"/>
+  <mj-class name="social-block__output-count" color="#a6a6a6" font-size="16px" padding-top="0px" />
+  <mj-class name="social-block__output-info" color="#a6a6a6" font-size="14px" padding-top="0px" align="right" />
 
 </mj-attributes>
