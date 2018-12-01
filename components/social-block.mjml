@@ -8,16 +8,21 @@
   </mj-section>
   <mj-section mj-class="social-block__buttons">
     <mj-column width="25%">
-      <mj-button mj-class="social-block__button social-block__button--facebook">facebook</mj-button>
+      <mj-button mj-class="social-block__button social-block__button--facebook">
+        facebook
+      </mj-button>
     </mj-column>
     <mj-column width="25%">
-      <mj-button mj-class="social-block__button social-block__button--twitter">twitter</mj-button>
+      <mj-button mj-class="social-block__button social-block__button--twitter">
+        twitter
+      </mj-button>
     </mj-column>
     <mj-column width="30%">
-      <mj-button mj-class="social-block__button social-block__button--vk">vkontakte</mj-button>
+      <mj-button mj-class="social-block__button social-block__button--vk">
+        vkontakte
+      </mj-button>
     </mj-column>
   </mj-section>
-
   <mj-section mj-class="social-block__output">
     <mj-column width="65%">
       <mj-text mj-class="social-block__output-heading">Диалоги по активным приглашениям</mj-text>
@@ -31,7 +36,6 @@
       <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
-
   <mj-section mj-class="social-block__output">
     <mj-column width="60%">
       <mj-text mj-class="social-block__output-heading">Время в онлайне за неделю</mj-text>
@@ -44,7 +48,6 @@
       <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
-
   <mj-section mj-class="social-block__output">
     <mj-column width="65%">
       <mj-text mj-class="social-block__output-heading">Пропущенных диалогов</mj-text>
@@ -58,7 +61,6 @@
       <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
-
   <mj-section mj-class="social-block__output">
     <mj-column width="65%">
       <mj-text mj-class="social-block__output-heading">Положительных оценок</mj-text>
@@ -72,7 +74,6 @@
       <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
-
   <mj-section mj-class="social-block__output">
     <mj-column width="65%">
       <mj-text mj-class="social-block__output-heading">Скорость ответа на первое сообщение</mj-text>
@@ -85,5 +86,4 @@
       <mj-image mj-class="social-block__output-welldone" src="assets/img/round.png" alt="" />
     </mj-column>
   </mj-section>
-
 </mj-wrapper>

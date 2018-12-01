@@ -6,6 +6,6 @@
   <mj-body mj-class="body">
     <mj-include path="./components/logo-block.mjml" />
     <mj-include path="./components/social-block.mjml" />
-
+    <mj-include path="./components/opportunities-block.mjml" />
   </mj-body>
 </mjml>

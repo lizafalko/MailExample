@@ -27,4 +27,6 @@
   <mj-class name="social-block__output-info" color="#a6a6a6" font-size="14px" padding-top="0px" align="right" />
   <mj-class name="social-block__output-welldone" width="39" height="39" align="right" padding-top="0px" />
 
+  <mj-class name="opportunities-block"/>
+
 </mj-attributes>
