@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=cyrillic" />
+    <mj-include path="./attributes/attributes.mjml" />
+  </mj-head>
+  <mj-body mj-class="body">
+
+    <mj-section mj-class="logo-block">
+      <mj-column>
+        <mj-image mj-class="logo-block__img" src="./assets/img/logo.png" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="logo-block">
+      <mj-column>
+        <mj-text mj-class="logo-block__text">
+          Отчет по сайту megashop.ru/regions<br>(Регион по умолчанию)<br>за вторник, 14 сентября 2014
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="logo-block">
+      <mj-column>
+        <mj-text mj-class="logo-block__heading">
+          Оценка качества работы
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="logo-block logo-block__section">
+      <mj-column>
+        <mj-image mj-class="logo-block__slider" src="./assets/img/slider.png" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
