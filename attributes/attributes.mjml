@@ -1,5 +1,5 @@
 <mj-attributes>
-  <mj-class name="body" background-color="#F2F2F2" font-family="Roboto" />
+  <mj-class name="body" background-color="#ededed" font-family="Roboto" />
 
   <mj-class name="logo-block" background-color="#2f303b" padding="0px 0px 0px 0px" />
   <mj-class name="logo-block__img" padding-top="0px" padding-bottom="0px" align="left" width="127px" height="39" />
@@ -38,7 +38,7 @@
   <mj-class name="opportunities-block__parts" padding-top="0px" />
   <mj-class name="opportunities-block__list-heading" align="center" font-size="26px" font-weight="400" />
   <mj-class name="opportunities-block__list-text" line-height="1.5" align="center" font-size="16px" color="#80818b" />
-  <mj-class name="opportunities-block__part-img" align="center" src="assets/img/icons/2.png" alt="" width="58" height="59" />
+  <mj-class name="opportunities-block__part-img" align="center" width="58" height="59" />
   <mj-class name="opportunities-block__part-heading" padding-left="0px" align="center" padding-right="0px" font-size="16px" color="#6a6c78" line-height="1.5" />
   <mj-class name="opportunities-block__text-size" width="30%" />
   <mj-class name="opportunities-block__img-size" width="20%" />
@@ -46,7 +46,13 @@
 
   <mj-class name="footer" padding-top="40px" padding-bottom="200px" />
   <mj-class name="footer__link" align="center" />
+  <mj-class name="footer__info" padding-bottom="0px" />
+  <mj-class name="footer__img" width="88" height="32" padding-bottom="0px" />
+  <mj-class name="footer__social" padding-top="0px" />
+  <mj-class name="footer__buttons" align="center" />
+  <mj-class name="footer__address" align="center" />
+  <mj-class name="footer__title" align="center" color="#a6a6a6" font-size="16px" line-height="1" padding-top="30px" />
 
-  <mj-class name="empty-block" background-color="#F2F2F2" padding-bottom="60px"/>
+  <mj-class name="empty-block" background-color="#ededed" padding-bottom="60px"/>
 
 </mj-attributes>

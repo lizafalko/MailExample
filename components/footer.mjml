@@ -1,8 +1,29 @@
-<mj-section mj-class="footer">
-  <mj-column>
-    <mj-text mj-class="footer__link">
-      <a class="footer__link--blue" href="#">Отключить статистику на почту</a>
-    </mj-text>
-    <mj-text mj-class="footer__title"></mj-text>
-  </mj-column>
-</mj-section>
+<mj-wrapper mj-class="footer">
+  <mj-section mj-class="footer__info">
+    <mj-column>
+      <mj-text mj-class="footer__link">
+        <a class="footer__link--blue" href="#">Отключить статистику на почту</a>
+      </mj-text>
+      <mj-text mj-class="footer__title">Общайтесь с посетителями вашего сайта!</mj-text>
+      <mj-image mj-class="footer__img" src="assets/img/jivosite.png" alt="" />
+    </mj-column>
+  </mj-section>
+  <mj-section mj-class="footer__social">
+    <mj-column>
+      <mj-text mj-class="footer__buttons">
+        <a href="#"><image class="footer__social-buttons" src="assets/img/icons/facebook.png" alt=""/></a>
+        <a href="#"><image class="footer__social-buttons" src="assets/img/icons/twitter.png" alt=""/></a>
+        <a href="#"><image class="footer__social-buttons" src="assets/img/icons/vk.png" alt=""/></a>
+      </mj-text>
+      <mj-text mj-class="footer__address">
+        <p class="footer__paragraphs">
+          ООО &raquo;Живой сайт&laquo;, Москва, Летнивская ул. 11/10. jivosite.ru, info@jivosite.ru
+        </p>
+        <p class="footer__paragraphs">
+          Вы получили это письмо, потому что зарегистрированы на Jivosite.ru
+        </p>
+        <a class="footer__link--small" href="#">Отписаться от рассылки</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
