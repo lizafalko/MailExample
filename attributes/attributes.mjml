@@ -27,6 +27,13 @@
   <mj-class name="social-block__output-info" color="#a6a6a6" font-size="14px" padding-top="0px" align="right" />
   <mj-class name="social-block__output-welldone" width="39" height="39" align="right" padding-top="0px" />
 
-  <mj-class name="opportunities-block"/>
+  <mj-class name="opportunities-block" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="40px"/>
+  <mj-class name="opportunities-block__notification" background-color="#f9e1e1" padding-top="20px" padding-left="10px" padding-right="10px" border-radius="5px"/>
+  <mj-class name="opportunities-block__text" color="#b76464" line-height="1.5" font-size="16px" align="left" padding-bottom="20px"/>
+  <mj-class name="opportunities-block__button" color="#ffffff" font-size="14px" width="90%" height="35px" text-transform="uppercase" />
+  <mj-class name="opportunities-block__button--pink" background-color="#d53a3a" />
+  <mj-class name="opportunities-block__footer" line-height="2" valign="center" color="#805656" font-size="16px" align="center" padding-top="20px" />
+
+  <mj-class name="empty-block" background-color="#F2F2F2" padding-bottom="60px"/>
 
 </mj-attributes>

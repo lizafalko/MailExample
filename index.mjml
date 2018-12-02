@@ -2,10 +2,19 @@
   <mj-head>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=cyrillic" />
     <mj-include path="./attributes/attributes.mjml" />
+    <mj-style inline="inline">
+      .opportunities-block__link {
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+        line-height: 1.5;
+      }
+    </mj-style>
   </mj-head>
   <mj-body mj-class="body">
     <mj-include path="./components/logo-block.mjml" />
     <mj-include path="./components/social-block.mjml" />
+    <mj-include path="./components/empty-section.mjml" />
     <mj-include path="./components/opportunities-block.mjml" />
   </mj-body>
 </mjml>
