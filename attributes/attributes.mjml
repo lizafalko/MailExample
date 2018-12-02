@@ -25,7 +25,7 @@
   <mj-class name="social-block__output--right" align="right"/>
   <mj-class name="social-block__output-count" color="#a6a6a6" font-size="16px" padding-top="0px" />
   <mj-class name="social-block__output-info" color="#a6a6a6" font-size="14px" padding-top="0px" align="right" />
-  <mj-class name="social-block__output-welldone" width="39" height="39" align="right" padding-top="0px" />
+  <mj-class name="social-block__output-welldone" width="39" height="39" align="center" padding-top="0px" />
 
   <mj-class name="opportunities-block" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="40px"/>
   <mj-class name="opportunities-block__notification" background-color="#f9e1e1" padding-top="20px" padding-left="10px" padding-right="10px" border-radius="5px"/>
