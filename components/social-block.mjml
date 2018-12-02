@@ -1,7 +1,9 @@
 <mj-wrapper mj-class="social-block">
   <mj-section>
     <mj-column mj-class="social-block__info">
-      <mj-image mj-class="social-block__img" src="./assets/img/cup.png" alt=""></mj-image>
+      <mj-text mj-class="social-block__cup">
+        <image class="social-block__img" src="./assets/img/cup.png" alt="" />
+      </mj-text>
       <mj-text mj-class="social-block__title">Отличная работа!</mj-text>
       <mj-text mj-class="social-block__text">Расскажите о своих достижениях:</mj-text>
     </mj-column>
