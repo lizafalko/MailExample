@@ -45,6 +45,7 @@
   <mj-class name="opportunities-block__more-link" align="center" font-size="16px" padding-top="20px" padding-bottom="0px" />
 
   <mj-class name="footer" padding-top="40px" padding-bottom="200px" />
+  <mj-class name="footer__link" align="center" />
 
   <mj-class name="empty-block" background-color="#F2F2F2" padding-bottom="60px"/>
 

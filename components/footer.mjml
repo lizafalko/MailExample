@@ -3,5 +3,6 @@
     <mj-text mj-class="footer__link">
       <a class="footer__link--blue" href="#">Отключить статистику на почту</a>
     </mj-text>
+    <mj-text mj-class="footer__title"></mj-text>
   </mj-column>
 </mj-section>
