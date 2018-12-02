@@ -1,0 +1,17 @@
+<mj-style inline="inline">
+  .opportunities-block__link {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1.5;
+  }
+  .opportunities-block__link--orange {
+    color: #ffffff;
+    text-decoration: none;
+    line-height: 1.5;
+  }
+  .opportunities-block__link--green {
+    color: #2bb86d;
+    line-height: 1.5;
+  }
+</mj-style>

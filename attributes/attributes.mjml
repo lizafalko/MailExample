@@ -29,10 +29,22 @@
 
   <mj-class name="opportunities-block" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="40px"/>
   <mj-class name="opportunities-block__notification" background-color="#f9e1e1" padding-top="20px" padding-left="10px" padding-right="10px" border-radius="5px"/>
-  <mj-class name="opportunities-block__text" color="#b76464" line-height="1.5" font-size="16px" align="left" padding-bottom="20px"/>
-  <mj-class name="opportunities-block__button" color="#ffffff" font-size="14px" width="90%" height="35px" text-transform="uppercase" />
+  <mj-class name="opportunities-block__text" color="#b76464" line-height="1.5" font-size="16px" align="justify" padding-bottom="20px"/>
+  <mj-class name="opportunities-block__button" font-size="14px" width="90%" height="40px" text-transform="uppercase" />
   <mj-class name="opportunities-block__button--pink" background-color="#d53a3a" />
-  <mj-class name="opportunities-block__footer" line-height="2" valign="center" color="#805656" font-size="16px" align="center" padding-top="20px" />
+  <mj-class name="opportunities-block__button--orange" padding-top="0px" background-color="#f6421f" font-size="18px" width="90%" height="40px" line-height="1.5" />
+  <mj-class name="opportunities-block__icons" line-height="2" valign="center" color="#805656" font-size="16px" align="center" padding-top="20px" />
+  <mj-class name="opportunities-block__list" padding-top="40px" />
+  <mj-class name="opportunities-block__parts" padding-top="0px" />
+  <mj-class name="opportunities-block__list-heading" align="center" font-size="26px" font-weight="400" />
+  <mj-class name="opportunities-block__list-text" line-height="1.5" align="center" font-size="16px" color="#80818b" />
+  <mj-class name="opportunities-block__part-img" align="center" src="assets/img/icons/2.png" alt="" width="58" height="59" />
+  <mj-class name="opportunities-block__part-heading" padding-left="0px" align="center" padding-right="0px" font-size="16px" color="#6a6c78" line-height="1.5" />
+  <mj-class name="opportunities-block__text-size" width="30%" />
+  <mj-class name="opportunities-block__img-size" width="20%" />
+  <mj-class name="opportunities-block__more-link" align="center" font-size="16px" padding-top="20px" padding-bottom="0px" />
+
+  <mj-class name="footer" padding-top="40px" padding-bottom="200px" />
 
   <mj-class name="empty-block" background-color="#F2F2F2" padding-bottom="60px"/>
 
