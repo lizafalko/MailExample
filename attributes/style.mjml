@@ -14,6 +14,10 @@
     color: #2bb86d;
     font-weight: 450;
   }
+  .opportunities-block__icons-link {
+    color: #805656;
+    text-decoration: none;
+  }
   .footer__link--blue {
     color: #2782d7;
     font-size: 15px;

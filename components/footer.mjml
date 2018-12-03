@@ -11,9 +11,9 @@
   <mj-section mj-class="footer__social">
     <mj-column>
       <mj-text mj-class="footer__buttons">
-        <a href="#"><image class="footer__social-buttons" src="assets/img/icons/facebook.png" alt=""/></a>
-        <a href="#"><image class="footer__social-buttons" src="assets/img/icons/twitter.png" alt=""/></a>
-        <a href="#"><image class="footer__social-buttons" src="assets/img/icons/vk.png" alt=""/></a>
+        <a href="#" target="_blank"><image class="footer__social-buttons" src="assets/img/icons/facebook.png" alt=""/></a>
+        <a href="#" target="_blank"><image class="footer__social-buttons" src="assets/img/icons/twitter.png" alt=""/></a>
+        <a href="#" target="_blank"><image class="footer__social-buttons" src="assets/img/icons/vk.png" alt=""/></a>
       </mj-text>
       <mj-text mj-class="footer__address">
         <p class="footer__paragraphs">
@@ -22,7 +22,7 @@
         <p class="footer__paragraphs">
           Вы получили это письмо, потому что зарегистрированы на Jivosite.ru
         </p>
-        <a class="footer__link--small" href="#">Отписаться от рассылки</a>
+        <a href="#" target="_blank" class="footer__link--small">Отписаться от рассылки</a>
       </mj-text>
     </mj-column>
   </mj-section>
