@@ -8,7 +8,7 @@
     <mj-include path="./components/logo-block.mjml" />
     <mj-include path="./components/social-block.mjml" />
     <mj-include path="./components/empty-section.mjml" />
-    <mj-include path="./components/operators-block.mjml" />
+    <mj-include path="./components/quality-block.mjml" />
     <mj-include path="./components/empty-section.mjml" />
     <mj-include path="./components/opportunities-block.mjml" />
     <mj-include path="./components/footer.mjml" />

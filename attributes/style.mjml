@@ -43,4 +43,10 @@
     margin-top: -140px;
     margin-left: -70px;
   }
+  .quality-block__text-grey {
+    color: #919191;
+  }
+  .quality-block__text-white {
+    color: #ffffff;
+  }
 </mj-style>

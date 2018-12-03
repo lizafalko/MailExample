@@ -28,7 +28,7 @@
   <mj-class name="social-block__output-info" color="#a6a6a6" font-size="14px" padding-top="0px" align="right" />
   <mj-class name="social-block__output-welldone" width="39" height="39" align="center" padding-top="0px" />
 
-  <mj-class name="opportunities-block" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="40px"/>
+  <mj-class name="opportunities-block" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="40px" />
   <mj-class name="opportunities-block__notification" background-color="#f9e1e1" padding-top="20px" padding-left="10px" padding-right="10px" border-radius="5px"/>
   <mj-class name="opportunities-block__text" color="#b76464" line-height="1.5" font-size="16px" align="justify" padding-bottom="20px"/>
   <mj-class name="opportunities-block__button" font-size="14px" width="90%" height="40px" text-transform="uppercase" />
@@ -54,7 +54,14 @@
   <mj-class name="footer__address" align="center" />
   <mj-class name="footer__title" align="center" color="#a6a6a6" font-size="16px" line-height="1" padding-top="30px" />
 
-  
+  <mj-class name="quality-block" />
+  <mj-class name="quality-block__top" background-color="#d2dce3" padding-top="30px" padding-bottom="30px" />
+  <mj-class name="quality-block__heading" line-height="1" align="center" font-size="28px" />
+  <mj-class name="quality-block__advantages" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-bottom="0px" />
+  <mj-class name="quality-block__advantages--top" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="0px" />
+  <mj-class name="quality-block__info" align="center" valign="center" font-size="16px" line-height="1.5" />
+  <mj-class name="quality-block__pink" background-color="#e64545" padding-bottom="30px" />
+
 
   <mj-class name="empty-block" background-color="#ededed" padding-bottom="60px"/>
 
