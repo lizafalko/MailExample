@@ -83,7 +83,6 @@
   }
   .quality-block__img {
     position: absolute;
-    margin-top: -60px;
     margin-top: -170px;
     margin-left: -55px;
     width: 114px;
@@ -91,7 +90,6 @@
   }
   .quality-block__img--middle {
     position: absolute;
-    margin-top: -60px;
     margin-top: -105px;
     margin-left: -55px;
     width: 114px;
