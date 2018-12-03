@@ -1,5 +1,5 @@
 <mj-attributes>
-  <mj-class name="body" background-color="#ededed" font-family="'-apple-system', 'roboto', Helvetica, Arial, sans-serif" />
+  <mj-class name="body" background-color="#ededed" font-family="'-apple-system', 'Roboto', Helvetica, Arial, sans-serif" />
 
   <mj-class name="logo-block" background-color="#2f303b" padding="0px 0px 60px 0px" />
   <mj-class name="logo-block__img" padding-top="0px" padding-bottom="0px" align="left" width="127px" height="39" />
