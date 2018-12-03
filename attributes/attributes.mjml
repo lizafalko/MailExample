@@ -18,8 +18,8 @@
   <mj-class name="social-block__buttons" padding-top="0px" />
   <mj-class name="social-block__button" padding-top="0px" color="#ffffff" width="140px" height="30px" text-transform="uppercase" />
   <mj-class name="social-block__button--facebook" background-color="#4e6ab1" />
-  <mj-class name="social-block__button--twitter" background-color="#1aace9" color="#ffffff" />
-  <mj-class name="social-block__button--vk" background-color="#436c98" color="#ffffff" />
+  <mj-class name="social-block__button--twitter" background-color="#1aace9" />
+  <mj-class name="social-block__button--vk" background-color="#436c98" />
 
   <mj-class name="social-block__output" padding-left="10px" padding-right="8px" />
   <mj-class name="social-block__output-heading" line-height="1.5" font-size="18px" />
@@ -30,7 +30,7 @@
 
   <mj-class name="opportunities-block" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="40px" />
   <mj-class name="opportunities-block__notification" background-color="#f9e1e1" padding-top="20px" padding-left="10px" padding-right="10px" border-radius="5px"/>
-  <mj-class name="opportunities-block__text" color="#b76464" line-height="1.5" font-size="16px" align="justify" padding-bottom="20px"/>
+  <mj-class name="opportunities-block__text" color="#b76464" line-height="1.5" font-size="16px" align="left" padding-bottom="20px"/>
   <mj-class name="opportunities-block__button" font-size="14px" width="90%" height="40px" text-transform="uppercase" />
   <mj-class name="opportunities-block__button--pink" background-color="#d53a3a" />
   <mj-class name="opportunities-block__button--orange" padding-top="0px" background-color="#f6421f" font-size="18px" width="90%" height="40px" line-height="1.5" />
@@ -45,6 +45,20 @@
   <mj-class name="opportunities-block__img-size" width="20%" />
   <mj-class name="opportunities-block__more-link" align="center" font-size="16px" padding-top="20px" padding-bottom="0px" />
 
+  <mj-class name="quality-block" />
+  <mj-class name="quality-block__top" background-color="#d2dce3" padding-top="30px" padding-bottom="30px" />
+  <mj-class name="quality-block__heading" line-height="1" align="center" font-size="28px" />
+  <mj-class name="quality-block__advantages" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-bottom="10px" />
+  <mj-class name="quality-block__info" align="center" valign="center" font-size="16px" line-height="1.5" padding-top="20px" />
+  <mj-class name="quality-block__pink" background-color="#e64545" padding-bottom="40px" />
+  <mj-class name="quality-block__icon" width="54" height="54" />
+  <mj-class name="quality-block__text" font-size="16px" align="left" padding-top="0px" />
+  <mj-class name="quality-block__notice" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="10px" padding-bottom="0px" />
+  <mj-class name="quality-block__notice--first" width="20%" />
+  <mj-class name="quality-block__notice--second" width="80%" />
+  <mj-class name="quality-block__footnote" padding-bottom="50px" background-color="#ffffff" padding-left="30px" padding-right="30px" />
+  <mj-class name="quality-block__footnote-text" font-size="16px" line-height="1.5" color="#acacac" />
+
   <mj-class name="footer" padding-top="40px" padding-bottom="200px" />
   <mj-class name="footer__link" align="center" />
   <mj-class name="footer__info" padding-bottom="0px" />
@@ -54,15 +68,6 @@
   <mj-class name="footer__address" align="center" />
   <mj-class name="footer__title" align="center" color="#a6a6a6" font-size="16px" line-height="1" padding-top="30px" />
 
-  <mj-class name="quality-block" />
-  <mj-class name="quality-block__top" background-color="#d2dce3" padding-top="30px" padding-bottom="30px" />
-  <mj-class name="quality-block__heading" line-height="1" align="center" font-size="28px" />
-  <mj-class name="quality-block__advantages" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-bottom="0px" />
-  <mj-class name="quality-block__advantages--top" background-color="#ffffff" padding-left="40px" padding-right="40px" padding-top="0px" />
-  <mj-class name="quality-block__info" align="center" valign="center" font-size="16px" line-height="1.5" />
-  <mj-class name="quality-block__pink" background-color="#e64545" padding-bottom="30px" />
-
-
-  <mj-class name="empty-block" background-color="#ededed" padding-bottom="60px"/>
+  <mj-class name="empty-block" background-color="#ededed" padding-bottom="60px" />
 
 </mj-attributes>

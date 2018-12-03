@@ -1,4 +1,24 @@
 <mj-style inline="inline">
+  .social-block__icon-facebook {
+    width: 14px;
+    height: 14px;
+  }
+  .social-block__icon-twitter {
+    width: 14px;
+    height: 11px;
+  }
+  .social-block__icon-vk {
+    width: 16px;
+    height: 10px;
+  }
+  .social-block__button-link {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .social-block__arrow {
+    width: 8px;
+    height: 7px;
+  }
   .opportunities-block__link {
     color: #ffffff;
     text-decoration: none;
@@ -43,10 +63,38 @@
     margin-top: -140px;
     margin-left: -70px;
   }
-  .quality-block__text-grey {
-    color: #919191;
+  .quality-block__text {
+    padding-bottom: 40px;
   }
-  .quality-block__text-white {
+  .quality-block__text--grey {
+    color: #919191;
+    padding-bottom: 65px;
+  }
+  .quality-block__text--white {
     color: #ffffff;
+  }
+  .quality-block__text--silver {
+    line-height: 1.5;
+    color: #888888;
+  }
+  .quality-block__text--black {
+    line-height: 1.5;
+    font-size: 18px;
+  }
+  .quality-block__img {
+    position: absolute;
+    margin-top: -60px;
+    margin-top: -170px;
+    margin-left: -55px;
+    width: 114px;
+    height: 114px;
+  }
+  .quality-block__img--middle {
+    position: absolute;
+    margin-top: -60px;
+    margin-top: -105px;
+    margin-left: -55px;
+    width: 114px;
+    height: 114px;
   }
 </mj-style>

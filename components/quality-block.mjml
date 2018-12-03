@@ -9,46 +9,72 @@
   <mj-section mj-class="quality-block__advantages">
     <mj-column>
       <mj-text mj-class="quality-block__info">
-        <p class="quality-block__text-grey">
+        <p class="quality-block__text--grey quality-block__bottom">
           Пропущенных обращений<br>3% &#8593;1%
         </p>
+        <p class="quality-block__text--grey">
+          Лучше<br>80%<br>сайтов
+        </p>
+        <image width="114" height="114" class="quality-block__img" src="assets/img/1.png" alt="" />
       </mj-text>
     </mj-column>
     <mj-column mj-class="quality-block__pink">
       <mj-text mj-class="quality-block__info">
-        <p class="quality-block__text-white">
+        <p class="quality-block__text--white quality-block__text">
           Средняя скорость<br>ответа по сайту<br>42 сек. &#8593;10сек.
         </p>
+        <p class="quality-block__text--white">
+          Лучше<br>9%<br>сайтов
+        </p>
+        <image width="114" height="114" class="quality-block__img--middle" src="assets/img/2.png" alt="" />
       </mj-text>
     </mj-column>
     <mj-column>
       <mj-text mj-class="quality-block__info">
-        <p class="quality-block__text-grey">
+        <p class="quality-block__text--grey quality-block__text">
           Общий<br>рейтинг сайта<br>9% &#8593;3%
+        </p>
+        <p class="quality-block__text--grey">
+          Лучше<br>50%<br>сайтов
+        </p>
+        <image class="quality-block__img" src="assets/img/3.png" alt="" />
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section mj-class="quality-block__notice">
+    <mj-column mj-class="quality-block__notice--first">
+      <mj-image mj-class="quality-block__icon" src="assets/img/icons/clocks.png" alt="" />
+    </mj-column>
+    <mj-column mj-class="quality-block__notice--second">
+      <mj-text mj-class="quality-block__text">
+        <p class="quality-block__text--black">
+          Вы очень медленно отвечаете клиентам!
+        </p>
+        <p class="quality-block__text--silver">
+          Для достижения максимальных результатов среднее время ответа должно быть не более 15 секунд. Постарайтесь принимать диалоги быстрее
         </p>
       </mj-text>
     </mj-column>
   </mj-section>
-  <mj-section mj-class="quality-block__advantages--top">
-    <mj-column>
-      <mj-text mj-class="quality-block__info">
-        <p class="quality-block__text-grey">
-          Лучше<br>80%<br>сайтов
+  <mj-section mj-class="quality-block__notice">
+    <mj-column mj-class="quality-block__notice--first">
+      <mj-image mj-class="quality-block__icon" src="assets/img/icons/message.png" alt="" />
+    </mj-column>
+    <mj-column mj-class="quality-block__notice--second">
+      <mj-text mj-class="quality-block__text">
+        <p class="quality-block__text--black">
+          У вас очень много пропущенных обращений!
+        </p>
+        <p class="quality-block__text--silver">
+          Клиенты пишут в чат и не получают ответа &mdash; это негативно сказывается на вашем имидже
         </p>
       </mj-text>
     </mj-column>
-    <mj-column mj-class="quality-block__pink">
-      <mj-text mj-class="quality-block__info">
-        <p class="quality-block__text-white">
-          Лучше<br>9%<br>сайтов
-        </p>
-      </mj-text>
-    </mj-column>
+  </mj-section>
+  <mj-section mj-class="quality-block__footnote">
     <mj-column>
-      <mj-text mj-class="quality-block__info">
-        <p class="quality-block__text-grey">
-          Лучше<br>50%<br>сайтов
-        </p>
+      <mj-text mj-class="quality-block__footnote-text">
+        * Рейтинг сайта в процентах показывает, сколько сайтов с установленным чатом JivoSite имеют худшие показатели , чем у вас. В сравнении участвуют только те сайты, у которых состоялось не менее 20 диалогов за день , и 100 диалогов за последние 7 дней.
       </mj-text>
     </mj-column>
   </mj-section>
